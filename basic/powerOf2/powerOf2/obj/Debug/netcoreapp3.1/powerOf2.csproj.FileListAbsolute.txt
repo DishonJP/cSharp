@@ -1,0 +1,13 @@
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\bin\Debug\netcoreapp3.1\powerOf2.exe
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\bin\Debug\netcoreapp3.1\powerOf2.deps.json
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\bin\Debug\netcoreapp3.1\powerOf2.runtimeconfig.json
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\bin\Debug\netcoreapp3.1\powerOf2.runtimeconfig.dev.json
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\bin\Debug\netcoreapp3.1\powerOf2.dll
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\bin\Debug\netcoreapp3.1\powerOf2.pdb
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\obj\Debug\netcoreapp3.1\powerOf2.csprojAssemblyReference.cache
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\obj\Debug\netcoreapp3.1\powerOf2.csproj.CoreCompileInputs.cache
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\obj\Debug\netcoreapp3.1\powerOf2.AssemblyInfoInputs.cache
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\obj\Debug\netcoreapp3.1\powerOf2.AssemblyInfo.cs
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\obj\Debug\netcoreapp3.1\powerOf2.dll
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\obj\Debug\netcoreapp3.1\powerOf2.pdb
+C:\Users\disho\source\repos\CSharp\basic\powerOf2\powerOf2\obj\Debug\netcoreapp3.1\powerOf2.genruntimeconfig.cache
