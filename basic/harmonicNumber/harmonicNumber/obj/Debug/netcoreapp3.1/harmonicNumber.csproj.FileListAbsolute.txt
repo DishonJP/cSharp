@@ -1,0 +1,12 @@
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\bin\Debug\netcoreapp3.1\harmonicNumber.exe
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\bin\Debug\netcoreapp3.1\harmonicNumber.deps.json
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\bin\Debug\netcoreapp3.1\harmonicNumber.runtimeconfig.json
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\bin\Debug\netcoreapp3.1\harmonicNumber.runtimeconfig.dev.json
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\bin\Debug\netcoreapp3.1\harmonicNumber.dll
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\bin\Debug\netcoreapp3.1\harmonicNumber.pdb
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\obj\Debug\netcoreapp3.1\harmonicNumber.csproj.CoreCompileInputs.cache
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\obj\Debug\netcoreapp3.1\harmonicNumber.AssemblyInfoInputs.cache
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\obj\Debug\netcoreapp3.1\harmonicNumber.AssemblyInfo.cs
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\obj\Debug\netcoreapp3.1\harmonicNumber.dll
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\obj\Debug\netcoreapp3.1\harmonicNumber.pdb
+C:\Users\disho\source\repos\CSharp\basic\harmonicNumber\harmonicNumber\obj\Debug\netcoreapp3.1\harmonicNumber.genruntimeconfig.cache
