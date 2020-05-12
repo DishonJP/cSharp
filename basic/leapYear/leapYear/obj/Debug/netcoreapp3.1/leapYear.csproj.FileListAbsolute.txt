@@ -1,0 +1,12 @@
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\bin\Debug\netcoreapp3.1\leapYear.exe
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\bin\Debug\netcoreapp3.1\leapYear.deps.json
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\bin\Debug\netcoreapp3.1\leapYear.runtimeconfig.json
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\bin\Debug\netcoreapp3.1\leapYear.runtimeconfig.dev.json
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\bin\Debug\netcoreapp3.1\leapYear.dll
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\bin\Debug\netcoreapp3.1\leapYear.pdb
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\obj\Debug\netcoreapp3.1\leapYear.csproj.CoreCompileInputs.cache
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\obj\Debug\netcoreapp3.1\leapYear.AssemblyInfoInputs.cache
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\obj\Debug\netcoreapp3.1\leapYear.AssemblyInfo.cs
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\obj\Debug\netcoreapp3.1\leapYear.dll
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\obj\Debug\netcoreapp3.1\leapYear.pdb
+C:\Users\disho\source\repos\CSharp\basic\leapYear\leapYear\obj\Debug\netcoreapp3.1\leapYear.genruntimeconfig.cache
