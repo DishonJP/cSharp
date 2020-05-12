@@ -1,0 +1,13 @@
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\bin\Debug\netcoreapp3.1\flipCoin.exe
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\bin\Debug\netcoreapp3.1\flipCoin.dll
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\obj\Debug\netcoreapp3.1\flipCoin.csproj.CoreCompileInputs.cache
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\obj\Debug\netcoreapp3.1\flipCoin.AssemblyInfoInputs.cache
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\obj\Debug\netcoreapp3.1\flipCoin.AssemblyInfo.cs
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\obj\Debug\netcoreapp3.1\flipCoin.dll
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\obj\Debug\netcoreapp3.1\flipCoin.pdb
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\bin\Debug\netcoreapp3.1\flipCoin.deps.json
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\bin\Debug\netcoreapp3.1\flipCoin.runtimeconfig.json
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\bin\Debug\netcoreapp3.1\flipCoin.runtimeconfig.dev.json
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\bin\Debug\netcoreapp3.1\flipCoin.pdb
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\obj\Debug\netcoreapp3.1\flipCoin.csprojAssemblyReference.cache
+C:\Users\disho\source\repos\CSharp\basic\flipCoin\obj\Debug\netcoreapp3.1\flipCoin.genruntimeconfig.cache
