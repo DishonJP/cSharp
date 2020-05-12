@@ -1,0 +1,13 @@
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\bin\Debug\netcoreapp3.1\primeFactor.exe
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\bin\Debug\netcoreapp3.1\primeFactor.deps.json
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\bin\Debug\netcoreapp3.1\primeFactor.runtimeconfig.json
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\bin\Debug\netcoreapp3.1\primeFactor.runtimeconfig.dev.json
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\bin\Debug\netcoreapp3.1\primeFactor.dll
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\bin\Debug\netcoreapp3.1\primeFactor.pdb
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\obj\Debug\netcoreapp3.1\primeFactor.csprojAssemblyReference.cache
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\obj\Debug\netcoreapp3.1\primeFactor.csproj.CoreCompileInputs.cache
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\obj\Debug\netcoreapp3.1\primeFactor.AssemblyInfoInputs.cache
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\obj\Debug\netcoreapp3.1\primeFactor.AssemblyInfo.cs
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\obj\Debug\netcoreapp3.1\primeFactor.dll
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\obj\Debug\netcoreapp3.1\primeFactor.pdb
+C:\Users\disho\source\repos\CSharp\basic\primeFactor\primeFactor\obj\Debug\netcoreapp3.1\primeFactor.genruntimeconfig.cache
