@@ -1,0 +1,12 @@
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\bin\Debug\netcoreapp3.1\sumOfInteger.exe
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\bin\Debug\netcoreapp3.1\sumOfInteger.deps.json
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\bin\Debug\netcoreapp3.1\sumOfInteger.runtimeconfig.json
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\bin\Debug\netcoreapp3.1\sumOfInteger.runtimeconfig.dev.json
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\bin\Debug\netcoreapp3.1\sumOfInteger.dll
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\bin\Debug\netcoreapp3.1\sumOfInteger.pdb
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\obj\Debug\netcoreapp3.1\sumOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\obj\Debug\netcoreapp3.1\sumOfInteger.AssemblyInfoInputs.cache
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\obj\Debug\netcoreapp3.1\sumOfInteger.AssemblyInfo.cs
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\obj\Debug\netcoreapp3.1\sumOfInteger.dll
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\obj\Debug\netcoreapp3.1\sumOfInteger.pdb
+C:\Users\disho\source\repos\CSharp\functional\sumOfInteger\sumOfInteger\obj\Debug\netcoreapp3.1\sumOfInteger.genruntimeconfig.cache
