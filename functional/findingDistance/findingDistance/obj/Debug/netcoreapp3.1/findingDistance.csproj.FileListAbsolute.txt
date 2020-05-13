@@ -1,0 +1,13 @@
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\bin\Debug\netcoreapp3.1\findingDistance.exe
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\bin\Debug\netcoreapp3.1\findingDistance.deps.json
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\bin\Debug\netcoreapp3.1\findingDistance.runtimeconfig.json
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\bin\Debug\netcoreapp3.1\findingDistance.runtimeconfig.dev.json
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\bin\Debug\netcoreapp3.1\findingDistance.dll
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\bin\Debug\netcoreapp3.1\findingDistance.pdb
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\obj\Debug\netcoreapp3.1\findingDistance.csprojAssemblyReference.cache
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\obj\Debug\netcoreapp3.1\findingDistance.csproj.CoreCompileInputs.cache
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\obj\Debug\netcoreapp3.1\findingDistance.AssemblyInfoInputs.cache
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\obj\Debug\netcoreapp3.1\findingDistance.AssemblyInfo.cs
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\obj\Debug\netcoreapp3.1\findingDistance.dll
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\obj\Debug\netcoreapp3.1\findingDistance.pdb
+C:\Users\disho\source\repos\CSharp\functional\findingDistance\findingDistance\obj\Debug\netcoreapp3.1\findingDistance.genruntimeconfig.cache
