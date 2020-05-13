@@ -4,7 +4,7 @@ using System.Text;
 
 namespace functionalPrograms
 {
-    class findingDistance
+    class FindingDistance
     {
         public static double findDistance(double x, double y)
         {
