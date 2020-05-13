@@ -8,7 +8,7 @@ namespace functionalPrograms
     {
         public static double findDistance(double x, double y)
         {
-            return Math.Sqrt(Math.Pow(x, x) + Math.Pow(y, y));
+            return Math.Sqrt(x*x + y*y);
         }
     }
 }
